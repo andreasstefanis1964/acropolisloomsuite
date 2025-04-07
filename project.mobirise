@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "hotelm4",
       "title": "HotelM4",
@@ -1644,7 +1644,7 @@
         }
       ]
     },
-    "httpsacropolisloomsuite.com.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Acropolis Loom Suite",
